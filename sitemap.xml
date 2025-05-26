@@ -1,4 +1,4 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" generatedBy="WIX">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.sunpeaki.com/de/sp-lock-lorawan-control</loc>
 <lastmod>2025-05-26</lastmod>
@@ -617,6 +617,7 @@ https://www.sunpeaki.com/ka/sp-act-lorawan-relay-load-management
 <loc>
 https://www.sunpeaki.com/ka/sp-count-lorawan-customers-meter
 </loc>
+<lastmod>2025-05-26</lastmod>
 </url>
 <url>
 <loc>https://www.sunpeaki.com/ru/sp-lock-lorawan-control</loc>
